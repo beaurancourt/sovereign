@@ -136,7 +136,7 @@ A PC's skills represent their training. A newly-created PC starts with a few tra
 
 Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 indicates basic competence. Level 1 reflects professional-level skill. Level 2 likely makes a character the best in a village or city block. Level 3 represents mastery, making the character one of the best in a city. Level 4 reflects world-class expertise.
 
-Skills are referred to compactly as {Skill}:{Level}. For example, [Exert](#exert):1 or [Heal](#heal):2.
+Skills are compactly referred to as {Skill}:{Level}. For example, [Exert](#exert):1 or [Heal](#heal):2.
 
 All skills start at level -1.
 
@@ -351,7 +351,7 @@ At the start of each [Turn](#turn) after the party enters the site:
 
 Once the Characters enter a ruin, dungeon, or other dangerous site, the GM begins tracking time in [Turns](#turn). Each Character can take one significant action per [Turn](/rules#turn). Different Characters may perform different actions in the same [Turn](/rules#turn), and not every Character *has* to act.
 
-Tracking [Turns](/rules#turn) provides a rough measure of activity. The longer the Characters remain and the more they do, the higher the chances of encountering [Wandering Encounters](#wandering-encounters) or alerting the denizens of their presence. Eventually, the Characters must decide to retreat or clear the site of its dangers entirely.
+Tracking [Turns](/rules#turn) provides a rough measure of activity. The longer the Characters remain and the more they do, the higher the chances of facing [Wandering Encounters](#wandering-encounters) or alerting the denizens of their presence. Eventually, the Characters must decide to retreat or clear the site of its dangers entirely.
 
 | Activity                                       | Turns |
 |------------------------------------------------|-------|

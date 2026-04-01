@@ -5,7 +5,7 @@ title: Home
 
 # Character Creation
 
-This section will guide you through creating your own character step by step. There are a number of decisions that you'll be asked to make, and some choices will be mechanically better than others. As you gain familiarity with the rules, you'll be able to create more powerful characters with more synergy. This is intended, and deliberately rewards system mastery. Another option is to pick options based on archetypical tropes, this is also fine! The game tries to make sure that the archetypes are *viable* (but maybe not optimal).
+This section will guide you through creating your own character step by step. There are a number of decisions that you'll be asked to make, and some choices will be mechanically better than others. As you gain familiarity with the rules, you'll be able to create more powerful characters with more synergy. This is intended, and deliberately rewards system mastery. Another choice is to pick options based on archetypical tropes, this is also fine! The game tries to make sure that the archetypes are *viable* (but maybe not optimal).
 
 If creating your own character isn't your thing or you want inspiration, check out the [pre-built characters](#pre-built-characters). I've also included a [worked demonstration](/examples#character-creation).
 

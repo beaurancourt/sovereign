@@ -61,7 +61,7 @@ Adventuring is a profession, and all Characters have undergone extensive trainin
 
 1. **Record Level and XP.** Characters start at Level 1 with 0 XP, and need 1500 XP to [advance](/rules#xp-thresholds).
 
-1. **Create Descriptive Details**. Imagine an appearance, brief history, personality, mannerisms, and motivations, and [Alignment](#alignment) for your character. Bear in mind that your character *will be* going on adventures and *will be* part of a team. Endeavor to create a character that *wants* to go on adventures, and *wants* to be part of a team.
+1. **Create Descriptive Details**. Imagine the appearance, brief history, personality, mannerisms, motivations, and [Alignment](#alignment) for your character. Bear in mind that your character *will be* going on adventures and *will be* part of a team. Endeavor to create a character that *wants* to go on adventures, and *wants* to be part of a team.
 
 ## Alignment
 

@@ -228,10 +228,10 @@ We want to have decent [Shoot](/rules#shoot) because we're *definitely* not on t
 - Feats [Deadeye](/feats#deadeye-c), [Specialist](/feats#specialist) (Sneak)
 - Improvements: Raise [Shoot](/rules#shoot) and [Sneak](/rules#sneak) to 1. Raise [Notice](/rules#notice) to 0.
 - Readied: Small Bow (3g, 1 enc), Quiver (10g, 1 enc), 2 Military Oil (4g, 2 enc)
-- Stowed: 100ft String (2s, 1 enc), Magnet (1s), 6 Iron Spikes (1g, 1 enc), Hand Drill (10g, 1 enc), Fish Hook (1s), 50ft Rope (1g, 2 enc), Grappling Hook (25g, 1 enc), 10ft Pole (1c, 2 enc), Rations (2s, 1 enc), Mirror (5g, 1 enc), Hammer (1g, 1 enc).
+- Stowed: 100ft String (2s, 1 enc), Lodestone (10g), 6 Iron Spikes (1g, 1 enc), Hand Drill (10g, 1 enc), Fish Hook (1s), 50ft Rope (1g, 2 enc), Grappling Hook (25g, 1 enc), 10ft Pole (1c, 2 enc), Rations (2s, 1 enc), Mirror (5g, 1 enc), Hammer (1g, 1 enc).
 
 We want to be able to [Notice](/rules#notice) hidden stuff, and use [Sneak](/rules#sneak) to it's fullest (disabling traps, stealing things, picking locks). We pick up [Deadeye](/feats#deadeye-c) to make us effective in a fight, and it synergizes well with the additional Improvements we get as we level up.
 
-Our kit is chosen to be able to interact with objects from a distance. Fish hooks and string to tug on stuff from afar, string+magnet to reel in distant metal things (like keys), 10ft pole for prodding, mirrors to look in places you couldn't otherwise.
+Our kit is chosen to be able to interact with objects from a distance. Fish hooks and string to tug on stuff from afar, string+lodestone to reel in distant metal things (like keys), 10ft pole for prodding, mirrors to look in places you couldn't otherwise.
 
 We throw in some iron spikes because they tend to be *very* useful for disabling traps - hammering a spike into a trap's mechanism tends to work *a lot*.

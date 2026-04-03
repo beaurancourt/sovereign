@@ -5,9 +5,9 @@ title: Home
 
 # Classes
 
-Delving is done in a party of specialists. A class represents the particular skills, abilities, or talents that make the Character valuable to the party.
+Delving is done by a party of specialists. A class represents the particular skills, abilities, or talents that make the Character valuable to the party.
 
-The three base classes are [Expert](#expert), [Mage](#mage), and [Warrior](#warrior). Each of these base classes has its own [HP Progression](/rules#hp-progression), attack progression, and [Feat](#feat) advancement.
+The three base classes are [Expert](#expert), [Mage](#mage), and [Warrior](#warrior). Each of these base classes has their own [HP Progression](/rules#hp-progression), attack progression, and [Feat](#feat) advancement.
 
 There are two kinds of classes: full classes and Partial classes. You may choose a single class, committing completely to that class’ profession. Alternatively, you may pick two Partial classes, mixing their abilities.
 
@@ -44,7 +44,7 @@ When you advance a character level, you gain an extra [Advancement Point](/chara
 
 ### Partial Expert
 
-A Partial Expert is treated just as a full Expert, including gaining the benefits of the [Quick Learner](#class-ability-quick-learner) ability. They do not have the [Masterful Expertise](#class-ability-masterful-expertise) ability, however, as they lack the versatility of a full Expert.
+A Partial Expert is treated just as a full Expert, including gaining the benefits of the [Quick Learner](#class-ability-quick-learner) ability. However, they do not have the [Masterful Expertise](#class-ability-masterful-expertise) ability, as they lack the versatility of a full Expert.
 
 ### Partial Mage/Partial Expert
 
@@ -84,7 +84,7 @@ Partial Warrior/Partial Experts roll `1d6+2` for [HP Progression](/rules#hp-prog
 
 ## Mage
 
-The Mage class is a general header under which all Characters with supernatural powers or spellcasting ability are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - [High Mage](/arcane-traditions#high-mage), [Healer](/arcane-traditions#healer), [Elementalist](/arcane-traditions#elementalist), etc.
+The Mage class is a general header under which all Characters with supernatural powers or spellcasting abilities are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - [High Mage](/arcane-traditions#high-mage), [Healer](/arcane-traditions#healer), [Elementalist](/arcane-traditions#elementalist), etc.
 
 Mages roll `1d6-1` for [HP Progression](/rules#hp-progression).
 
@@ -103,7 +103,7 @@ Mages roll `1d6-1` for [HP Progression](/rules#hp-progression).
 
 ### Partial Mage
 
-A Partial Mage is treated as a Mage, and picks an [Arcane Tradition](/arcane-traditions) for their powers. That tradition’s abilities will be more limited for Partial Mages, however, as described under each of the paths.
+A Partial Mage is treated as a Mage, and picks an [Arcane Tradition](/arcane-traditions) for their powers. However, that tradition’s abilities will be more limited for Partial Mages, as described under each of the paths.
 
 You may pick the Partial Mage class twice for two different magical traditions. In this case, use the following table instead of the one listed in the partial class.
 
@@ -193,7 +193,7 @@ Once per [Turn](/rules#turn), as an [Instant Action](/combat#instant-action), th
 
 ### Partial Warrior
 
-A Partial Warrior gains certain of the benefits of a full Warrior, including the improved [HP Progression](/rules#hp-progression) and a somewhat improved attack bonus. They do not have the [Veteran’s Luck](#class-ability-veterans-luck) special ability or the [Killing Blow](#class-ability-killing-blow) power, however, and must trust to their own talents to land blows and crush their enemies.
+A Partial Warrior gains certain of the benefits of a full Warrior, including the improved [HP Progression](/rules#hp-progression) and a somewhat improved attack bonus. However, they do not have the [Veteran’s Luck](#class-ability-veterans-luck) special ability or the [Killing Blow](#class-ability-killing-blow) power, and must trust to their own talents to land blows and crush their enemies.
 
 ### Partial Mage/Partial Warrior
 

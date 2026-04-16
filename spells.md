@@ -258,7 +258,7 @@ A flattened disc of tremendous heat, sound, and shock is triggered at a visible 
 Everything within the area suffers `1d8` damage from flame, concussion, and sonic shock per caster level, with an [Evasion](/rules#evasion) save for half. If used in a space less than 40ft in width, the explosion is channeled through adjacent spaces and passages for an additional `1d6` x 10ft.
 
 #### Magic Wall
-The caster must form some sort of line as part of this spell’s invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor. The caster can make such a line as part of a [Move Action](/combat#move-action, tracing it out or scattering powder as they go. The line itself may be no longer than 20ft per caster level, and may be straight or curved as the caster wishes.
+The caster must form some sort of line as part of this spell’s invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor. The caster can make such a line as part of a [Move Action](/combat#move-action), tracing it out or scattering powder as they go. The line itself may be no longer than 20ft per caster level, and may be straight or curved as the caster wishes.
 
 Once it has been drawn, Magic Wall empowers the line with the ability to ward off a particular target and prevent them or their powers from crossing or being made to cross the line, as if it were a physical wall. The caster can nominate any kind of target to be warded that could be distinguished without need for knowing their thoughts, such as “humans” or “non-humans” or “men wearing the livery of the baron”.
 
@@ -267,7 +267,7 @@ The barrier extends 100ft upward and 10ft downward and blocks any attack or magi
 #### Message
 This spell calls forth a floating set of colored glass chimes. The caster alone may strike them, producing sounds of great subtlety and clarity. The caster may allow anyone within ten miles per level to hear the music, or may make it inaudible to anyone save specific targets within range.
 
-Such is the expressiveness of the chimes that those who hear them instantly understands the caster’s desired message, however abstract. If the caster strikes the chimes violently as a [Main Action](/combat#main-action), they shatter them, causing a deafening clamor that does `3d6` damage to all non-deaf targets within 40ft except for the caster.
+Such is the expressiveness of the chimes that those who hear them instantly understand the caster’s desired message, however abstract. If the caster strikes the chimes violently as a [Main Action](/combat#main-action), they shatter them, causing a deafening clamor that does `3d6` damage to all non-deaf targets within 40ft except for the caster.
 
 The chimes persist until shattered or the [Turn](/rules#turn) ends.
 
@@ -316,14 +316,14 @@ The caster sets up a triggered resonance of dispelling magic which may later be 
 #### Geas
 A single visible living creature is struck with a grim geas, forcing it to comply with a particular command or else suffer a progressively-worse affliction.
 
-The caster lays one single-sentence command on the target that is neither suicidal, indefinitely imprecise, nor likely physically impossible for them to comply with. Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king or bind someone to forever after comply with a master’s arbitrary commands.
+The caster lays one single-sentence command on the target that is neither suicidal, indefinitely imprecise, nor likely physically impossible for them to comply with. Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king nor bind someone to forever-after comply with a master’s arbitrary commands.
 
 If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in `1d6` weeks, applying -2 to their attack rolls and -1 to skill checks for each week that passes and halving their maximum HP. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
 
 An active target can make a [Mental](/rules#mental) save to resist this spell, but they cannot if they are restrained, unconscious, or otherwise subdued. The curse lasts until dispelled or the caster lifts it.
 
 #### Greater Dominate Person
-This spell can only be applied to a helpless or restrained living victim, who gets a [Mental](/rules#mental) saving throw to resist it and be forever after immune to its effects.
+This spell can only be applied to a helpless or restrained living victim, who gets a [Mental](/rules#mental) saving throw to resist it and be forever-after immune to its effects.
 
 On a failure, the target becomes hopelessly subject to the caster via a series of psychic fetters, obediently carrying out their will. The target must be able to understand the caster’s wishes, but will obey them to the best of its intelligence, capability, and initiative. They must make a [Mental](/rules#mental) saving throw to resist performing even suicidal acts.
 
@@ -332,7 +332,7 @@ The spell lasts until it is dispelled or the caster releases the target. A caste
 Creatures under the effect of Greater Dominate Person display numerous small tics and magically-compelled quirks of behavior that may provoke puzzlement in casual observers and will give away the mental influence entirely to an onlooker with at least [Magic](/rules#magic):0 who can observe them for at least an hour.
 
 #### Pull Object
-The contents of single visible target are extracted and placed in the caster’s hands.
+The contents of a single visible target are extracted and placed in the caster’s hands.
 
 If used on a cabinet, backpack, pocket, or other such container it can be no larger than an armoire, and the caster can choose whether or not to receive any particular object from inside it, being instantly appraised of its contents when the spell is cast.
 
@@ -380,7 +380,7 @@ Attuning the target point requires an hour of effort, after which this spell wil
 
 Only living creatures and the vehicles they drive and objects they carry may pass through; atmosphere and other environments remain on the far side of the gate. Only one target point may be prepared for this spell at a time, and there is a 1-in-10 chance for every casting that the real destination is `1d100` miles in a random direction, discovered only after the portal is used.
 
-#### Impenatrable Dome
+#### Impenetrable Dome
 The caster hurls up a magical shield that is impervious to almost all hostile powers.
 
 Unlike most sorceries, this spell can be cast as an [Instant Action](/combat#instant-action), and immediately creates a transparent bubble of force around the caster with up to a 20ft radius.
@@ -477,7 +477,7 @@ In all cases, they need not breathe and become immune to poisons and diseases no
 ### Level 3 - Elementalist
 
 #### Elemental Wall
-Conjure a a wall of a chosen churning elemental force.
+Conjure a wall of a chosen churning elemental force.
 
 The barrier is 10ft long per character level, 10ft high, and 1ft thick. The barrier must rest on solid ground but may be bent or shaped as desired so long as no part of it is more than 200ft from the caster.
 
@@ -571,7 +571,7 @@ This spell may not be used twice on the same corpse.
 #### Augment Vitality
 The necromancer refines and enhances the natural flow of vitality within a willing visible target.
 
-For the rest of the [Turn](/rules#turn), all [Physical](/rules#physical) saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) and they automatically stabilize when [Mortally Injured](/rules#mortal-injury-and-stabalization). Once during the [Turn](/rules#turn), as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
+For the rest of the [Turn](/rules#turn), all [Physical](/rules#physical) saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) and they automatically stabilize when [Mortally Injured](/rules#mortal-injury-and-stabalization). Once during the [Turn](/rules#turn), as an [Instant Action](/combat#instant-action), they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
 
 The recipient of this spell gains one [System Strain](/rules#system-strain).
 
@@ -615,7 +615,7 @@ Temporarily suspend the mortality of a willing target within sight.
 
 For one round per Necromancer level, the creature simply cannot die, no matter how drastic their injuries. Those reduced to zero HP lose their [Move Action](/combat#move-action) each [Round](/rules#round) but can continue to act otherwise; if such a target is damaged yet again, they must make a [Physical](/rules#physical) saving throw each time or become incapable of movement until healed.
 
-At the spell’s end targets reduced to zero HP are Mortally Injured; those that have been dismembered or otherwise slaughtered beyond the hope of survival die instantly.
+At the spell’s end, targets reduced to zero HP are Mortally Injured; those that have been dismembered or otherwise slaughtered beyond the hope of survival die instantly.
 
 #### Share Vitality
 By molding the plasmic stuff of life force, create a bond between two willing or helpless targets.

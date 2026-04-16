@@ -27,11 +27,11 @@ After reading through [Character Creation](/character-creation), following the v
 
 **Generate Attributes.** I roll [`3d6`](https://anydice.com/program/1) 5 times in order and get Strength 14, Dexterity 7, Constitution 11, Intelligence 8, Wisdom 10. I pencil all of these scores in.
 
-**Choose a Character Concept.** One friend wants going to play a big two-handed conan the barbarian type, my partner is obsessed with necromancy ever since watching the mummy as a child, and the other buddy really wants to be a bilbo baggins. I figure the best way I could round out the team would be to play someone that can keep the team alive. I'm thinking it would be really cool to play some sort of support archer, throwing out heals from range if needed, but being a decent shot with a bow otherwise.
+**Choose a Character Concept.** One friend wants to play a big two-handed Conan the barbarian type, my partner is obsessed with necromancy ever since watching "The Mummy" as a child, and the other buddy really wants to be a "Bilbo Baggins". I figure the best way I could round out the team would be to play someone that can keep the team alive. I'm thinking it would be really cool to play some sort of support archer, throwing out heals from range if needed, but otherwise being a decent shot with a bow.
 
 > We choose a character concept after everyone rolls stats because some stat lines are better suited for some concepts than others.
 
-**Raise an Attributes to 14.** Since I want to be a good shot, I raise my Dexterity to 14. I write them all down.
+**Raise an Attribute to 14.** Since I want to be a good shot, I raise my Dexterity to 14. I write them all down.
 
 ![small](/assets/images/sheet-1.png)
 
@@ -41,9 +41,9 @@ After reading through [Character Creation](/character-creation), following the v
 
 Then I get to make 4 improvements. My Strength and Dexterity are already 14, which is the threshold for +1, and the rest of my Attributes are at +0 and quite far away from 14 so I'll stick to improving my skills for now.
 
-I decide to be a great healer, handy with a bow, and be knowledgable, so I improve [Heal](/rules#heal) twice (to +1), [Shoot](/rules#shoot) once (to +0), and [Know](/rules#know) once (to +0).
+I decide to be a great healer, handy with a bow, and be knowledgeable, so I improve [Heal](/rules#heal) twice (to +1), [Shoot](/rules#shoot) once (to +0), and [Know](/rules#know) once (to +0).
 
-> Looking forward at [Advancement](/character-creation#advancement-benefits), we get better value out of raising attributes at character creation than advancement. Raising an attribute 4 times would cost 10 points. Raising 4 skills to level 0 costs 4 points. Raising 2 skills to level 1 costs 6 points. That said, raising 4 skills to will create an overall stronger character at first level, so trade-offs. It's also worth looking to see if you can get to a better mod *cheaply*. For instance, if your Strength is 13, it only takes 1 improvement to get a +1 STR.
+> Looking forward at [Advancement](/character-creation#advancement-benefits), we get better value out of raising attributes at character creation than advancement. Raising an attribute 4 times would cost 10 points. Raising 4 skills to level 0 costs 4 points. Raising 2 skills to level 1 costs 6 points. That said, raising 4 skills will create an overall stronger character at first level, so trade-offs. It's also worth looking to see if you can get to a better mod *cheaply*. For instance, if your Strength is 13, it only takes 1 improvement to get a +1 STR.
 
 ![small](/assets/images/sheet-3.png)
 
@@ -79,7 +79,7 @@ For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more
 
 ![small](/assets/images/sheet-9.png)
 
-**Choose Starting Gear**. I roll `3d6•10` and get 130g starting gold; lucky! Based on my Strength can carry 7 [Readied](/rules#readied) enc and 14 [Stowed](/rules#stowed) enc.
+**Choose Starting Gear**. I roll `3d6•10` and get 130g starting gold; lucky! Based on my Strength I can carry 7 [Readied](/rules#readied) enc and 14 [Stowed](/rules#stowed) enc.
 
 I'll grab Plate armor (60g, 3 enc), a Large Bow (7g, 2 enc), a Quiver (10g, 1 enc, comes with infinite arrows), and a Healer's Kit (10g, 1 enc) for my [Readied](/rules#readied) items.
 
@@ -87,7 +87,7 @@ I'll save my other 43g to add to the party slush fund and wait to buy the rest o
 
 > Each weapon and armor should have *some* sort of niche. Plate provides a lot of AC but the -3 penalty to Exert means that they're more vulnerable to [Shoving](/combat#shoving) and [Grappling](/combat#grappling), especially if enemies gang up via [Swarm Attacks](/combat#make-a-swarm-attack-main). A Short Sword does the same damage as a Mace, but is more versatile (can be used with both STR and DEX vs just STR), and does more base Shock (2 vs 1), but isn't able to shock heavily armored targets (AC 15 vs AC 18). A Great Sword does more damage than a Polearm (1d12 vs 1d10), but has lower reach (5ft vs 10ft).
 >
-> We record equipment on card stock because equipment tends to get passed around, sold, discarded, stored, etc. I find that its easier (and much less error-prone) to pass the paper around than to erase from one sheet and write on another in a game of [telephone](https://www.wikihow.com/Play-the-Telephone-Game) (especially when folks are intoxicated).
+> We record equipment on card stock because equipment tends to get passed around, sold, discarded, stored, etc. I find that it's easier (and much less error-prone) to pass the paper around than to erase from one sheet and write on another in a game of [telephone](https://www.wikihow.com/Play-the-Telephone-Game) (especially when folks are intoxicated).
 
 ![small](/assets/images/sheet-10.png)
 
@@ -101,7 +101,7 @@ I write `• Bow(100/600): +2 -> 1d8+2` in my preferred short hand for weapon st
 
 **Record Armor Class.** Plate armor gives me 16 AC and my DEX bumps that to 17.
 
-> AC is a funny stat; the more you have, the better each point is. Say you have 16 AC and 1 HP and you're fighting an opponent that attacks with +0 to hit, so hits 25% of the time. They need to attack you ~4 times on average to hit you. If you raise your AC to 17, then now they hit you 20% of the time, and they'll need to attack you ~5 times on average to hit you, which is a 25% increase to your life expectency. If you raise your AC to 18, then now they hit you 15% of the time, which means they need to attack you ~6.67 times to hit you, which is a further 34% increase to your life expectency.
+> AC is a funny stat; the more you have, the better each point is. Say you have 16 AC and 1 HP and you're fighting an opponent that attacks with +0 to hit, so hits 25% of the time. They need to attack you ~4 times on average to hit you. If you raise your AC to 17, then now they hit you 20% of the time, and they'll need to attack you ~5 times on average to hit you, which is a 25% increase to your life expectancy. If you raise your AC to 18, then now they hit you 15% of the time, which means they need to attack you ~6.67 times to hit you, which is a further 34% increase to your life expectancy.
 >
 > If you're going to go for AC, go for *a lot* of AC.
 
@@ -135,17 +135,17 @@ That's a character!
 
 The players just defeated the [Black Wyrm of Brandonsford](https://rancourt.substack.com/p/review-the-black-wyrm-of-brandonsford) and hauled its hoard back to town, everyone reaching level 3.
 
-**GM**: The citizens of Brandonsford are ecstatic that you've slain the beast, and the revelry continues well into the week. Many of the folks you've met or helped offer gratitude: Bently of the clumsy fox, Warwick, hand in hand with Ingrid, Father William, and even George the hunter seems to be in better spirits. As the celebrations are winding down, the town reeve, Eric, announces that they'll be memoralizing you along side Brandon as the second saviors of Brandonsford. You'll have your own statues! Is there anything else you want to do here before we wrap up?
+**GM**: The citizens of Brandonsford are ecstatic that you've slain the beast, and the revelry continues well into the week. Many of the folks you've met or helped offer gratitude: Bently of the clumsy fox, Warwick, hand in hand with Ingrid, Father William, and even George the hunter seems to be in better spirits. As the celebrations are winding down, the town reeve, Eric, announces that they'll be memorializing you alongside Brandon as the second saviors of Brandonsford. You'll have your own statues! Is there anything else you want to do here before we wrap up?
 
 **Alice**: I'd like to have my character, Huxley, stick around in Brandonsford for a few years. Settle in. Help Rebuild.
 
-**GM**: No problem, we can make another chacter between sessions. Speaking of, here's what I'm thinking: We could play [the forest of gornate](https://www.drivethrurpg.com/en/product/426926/The-Forest-of-Gornate?1892600=) which is a forest adventure with fallen civilizations, strange denizens, natural wonders, mysterious villas, and reclusive bandit leaders - there's a lot going on. Another option is [cavern of the creeping terror](https://www.drivethrurpg.com/en/product/418780/Cavern-of-the-Creeping-Terror?1892600=) which is a dungeon crawl with undead pirates, imprisoned fae, and huge slugs. Finally, we have [peril in the olden wood](https://www.drivethrurpg.com/en/product/397008/Peril-in-Olden-Wood?1892600=) which is a small hexcrawl with a bunch of interconnected problems happening; bigger in scope than the other two.
+**GM**: No problem, we can make another character between sessions. Speaking of, here's what I'm thinking: We could play [the forest of Gornate](https://www.drivethrurpg.com/en/product/426926/The-Forest-of-Gornate?1892600=) which is a forest adventure with fallen civilizations, strange denizens, natural wonders, mysterious villas, and reclusive bandit leaders - there's a lot going on. Another option is [cavern of the creeping terror](https://www.drivethrurpg.com/en/product/418780/Cavern-of-the-Creeping-Terror?1892600=) which is a dungeon crawl with undead pirates, imprisoned fae, and huge slugs. Finally, we have [peril in the olden wood](https://www.drivethrurpg.com/en/product/397008/Peril-in-Olden-Wood?1892600=) which is a small hexcrawl with a bunch of interconnected problems happening; bigger in scope than the other two.
 
 **Alice**: I'm leaning toward the creeping terror one, but I don't know yet.
 
 **GM**: No need to decide right now. I'll drop the options in the group chat, but please vote by end-of-day tomorrow so I have time to prep!
 
-> We focus on playing adventures because that's where the [high quality](https://udan-adan.blogspot.com/2016/11/conceptual-density-or-what-are-rpg.html) content is. The GM proposes only adventures that *they'd like to run*. That means that regardless of the player's choice, they're happy. Having the players talk and choose out-of-game means that they're making choices as players (who are playing to have fun) rather than characters (who are choosing based on in-game goals like wealth and power). It can be a whole lot of fun to put your PC through horrible sitautions!
+> We focus on playing adventures because that's where the [high quality](https://udan-adan.blogspot.com/2016/11/conceptual-density-or-what-are-rpg.html) content is. The GM proposes only adventures that *they'd like to run*. That means that regardless of the player's choice, they're happy. Having the players talk and choose out-of-game means that they're making choices as players (who are playing to have fun) rather than characters (who are choosing based on in-game goals like wealth and power). It can be a whole lot of fun to put your PC through horrible situations!
 
 ## Core Gameplay Loop
 
@@ -199,13 +199,13 @@ Say that we're playing [Winter's Daughter](https://www.drivethrurpg.com/en/produ
 
 ---
 
-I can't stress enough how important this is "getting" it. This loop and [The Big Picture](/rules#the-big-picture) are the whole thing - all the rest is commentary.
+I can't stress enough how important this is, "getting" it. This loop and [The Big Picture](/rules#the-big-picture) are the whole thing - all the rest is commentary.
 
 We have stuff like attributes and skills to make it easier for the GM to come up with consistent rulings for common situations, and for the players to be on the same page as the GM. We have subsystems like combat because it tends to be high stakes as well as *fun* to game out, but ultimately it serves the same purpose.
 
 The [Core Gameplay Loop](/rules#core-gameplay-loop) has a lot of hidden complexity in it. For instance, take "players describe their actions and the *intent* behind their actions". Say that there's a 20ft pit that a player wants to cross. There's a big difference between an intent of "I want to clear the pit" and "I want to have a shot of grabbing the far ledge". In the first one, they're asking to just totally succeed. In the second one, they're asking for a *chance* to catch the ledge - even if they succeed at their *jump*, they still might not *catch*, and that uncertainty puts us back at the beginning of the loop, and allows us to build more complex mechanics. An excellent post on the subject is [Advantage and Impact - Dreaming Dragonslayer](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/).
 
-These are the levers for negotiation. If the players are unhappy with their chances, they can negotiate with less desirable intents or more grevious consequences and so on. Similarly, this is the GM's space to port in more complex subsystems where they think they're needed, to handwave it all with a roll, or to say it *just happens*.
+These are the levers for negotiation. If the players are unhappy with their chances, they can negotiate with less desirable intents or more grievous consequences and so on. Similarly, this is the GM's space to port in more complex subsystems where they think they're needed, to handwave it all with a roll, or to say it *just happens*.
 
 Finally, this is what allows for [tactical infinity](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html). [Notice](/rules#notice) how the phrase is "players describe their actions and the intent behind their actions" and **not** "players pick an action or skill to use". The players can try *anything*, and it's the GM's job to figure out what happens. *Sometimes* that results in a dice roll (which is *sometimes* a skill check), but usually what they want to do just happens.
 

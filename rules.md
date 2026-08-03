@@ -417,6 +417,14 @@ The contents of the encounter are decided when the GM prepares the site. Not all
 
 A wandering encounter begins when one side sees the other, based on the map and available light sources. Usually, both sides notice each other at the same time, but differences in vision or light may allow one side to see the other without being noticed. In these cases, the side with the advantage may achieve [surprise](#encounters-and-surprise).
 
+The GM decides where the wanderers come from, guided by the map and what they're doing—patrolling from their lair, hauling food back to it, or investigating a noise the Party made. When nothing suggests an answer, roll `1d6`:
+
+| d6  | The wanderers...                                        |
+| --- | ------------------------------------------------------- |
+| 1–3 | Approach from ahead, from unexplored territory          |
+| 4–5 | Approach from behind, through areas already explored    |
+| 6   | Are already in the next area the Party enters, busy with their own affairs |
+
 #### When to Roll an Encounter Check
 
 | Type of Location                           | Turns    |

@@ -176,6 +176,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2026-08-03
+- Add guidance on where wandering monsters come from, including a `1d6` table for when the map and their errand don't suggest an answer.
+
 #### 2025-10-26
 - Update the recommended games log with the new 10ft pole entries.
 

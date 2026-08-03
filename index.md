@@ -33,11 +33,17 @@ This game endeavors to provide a ruleset that allows players to play through adv
 | [B5 - Horror on the Hill](https://www.drivethrurpg.com/en/product/17097)                                                                                            | 1              | 3            | 101        |
 | [Barrow of the Elf King](https://natetreme.itch.io/botek)                                                                                                           | 1              | 1            | 9          |
 | [Beneath Dark Elms](https://www.drivethrurpg.com/product/270829)                                                                                                    | 1              | 3            | 15         |
+| [Bergummo's Tower](https://www.drivethrurpg.com/en/product/553734/)                                                                                                 | 1              | 3            | 35         |
 | [Borshak's Lair](https://www.dropbox.com/scl/fi/z97jzboxex69jffg2rdsh/BORSHAKS_LAIR.pdf?rlkey=pyrzw48hdp7e4757ns6ng6mim&e=1&dl=0)                                   | 1              | 2            | 29         |
 | [Castle Xyntillan](https://emdt.bigcartel.com/product/castle-xyntillan)                                                                                             | 1              | 6            | 295        |
 | [Cult of the Sky Titans](https://weirdandblue.itch.io/sky-titans)                                                                                                   | 1              | 1            | 19         |
+| [Eastern Spark](https://www.drivethrurpg.com/en/product/549622/)                                                                                                    | 1              | ?            | ?          |
+| [Escape the Devil's Eye](https://www.drivethrurpg.com/en/product/552809/)                                                                                           | 1              | 3            | ?          |
+| [Fly me to the Moon](https://www.drivethrurpg.com/en/product/540802/)                                                                                               | 1              | ?            | 160        |
 | [Hyena Child](https://www.drivethrurpg.com/en/product/525423/)                                                                                                      | 1              | 4            | 140+       |
 | [Kraken Corpse Delve](https://www.drivethrurpg.com/product/335464)                                                                                                  | 1              | 3            | 22         |
+| [Orestruck](https://www.drivethrurpg.com/en/product/534673/)                                                                                                        | 1              | ?            | 17         |
+| [Outcast Unseelie and the Ooze Between](https://www.drivethrurpg.com/en/product/566187/)                                                                            | 1              | 3            | 50         |
 | [Secret of the Black Crag](https://www.drivethrurpg.com/product/425300)                                                                                             | 1              | 5            | ?          |
 | [Slug House](https://www.drivethrurpg.com/en/product/491255/)                                                                                                       | 1              | 3            | ?          |
 | [Star Spire](https://www.drivethrurpg.com/product/340123)                                                                                                           | 1              | 2            | 8          |
@@ -65,6 +71,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 | [The Well of Frogs](https://www.drivethrurpg.com/en/product/456516)                                                                                                 | 1              | 2            | 30         |
 | [Tomb Robbers of the Crystal Frontier](https://www.drivethrurpg.com/product/357799)                                                                                 | 1              | 1            | 18         |
 | [Turn it Off](https://cloud-press-publishing.itch.io/turn-it-off)                                                                                                   | 1              | ?            | 7          |
+| [Under the Caustic River Ahnd](https://www.drivethrurpg.com/en/product/540645/)                                                                                     | 1              | ?            | 17         |
 | [Winter’s Daughter](https://www.drivethrurpg.com/product/270795)                                                                                                    | 1              | 3            | 19         |
 | [Witches of Frostwyck](https://www.drivethrurpg.com/product/354011)                                                                                                 | 1              | 4            | 22         |
 | [Ascent of the Leviathan](https://www.drivethrurpg.com/product/383740)                                                                                              | 2              | 4            | 32         |
@@ -76,13 +83,16 @@ This game endeavors to provide a ruleset that allows players to play through adv
 | [Down the Smugglers' Walk](https://www.drivethrurpg.com/en/product/251466)                                                                                          | 2              | 6            | 40         |
 | [Fabien's Atelier](https://www.drivethrurpg.com/en/product/406938)                                                                                                  | 2              | 4            | 19         |
 | [Hideous Daylight](https://www.drivethrurpg.com/product/333639)                                                                                                     | 2              | 2            | 36         |
+| [Into the Many-Towered Twilight](https://www.drivethrurpg.com/en/product/557063/)                                                                                   | 2              | 6            | 150        |
 | [Lions of Tell Arn](https://www.drivethrurpg.com/en/product/510134/)                                                                                                | 2              | 4            | 75         |
+| [Manic in the Monastery](https://www.drivethrurpg.com/en/product/532562/)                                                                                           | 2              | 4            | 35         |
 | [Mines, Claws & Princesses](https://www.drivethrurpg.com/product/240094)                                                                                            | 2              | 4            | 80         |
 | [Sharky](https://idlecartulary.itch.io/sharky)                                                                                                                      | 2              | 3            | ?          |
 | [Souls for Qovahe](https://www.drivethrurpg.com/en/product/498461/)                                                                                                 | 2              | 3            | 100        |
 | [The Carnivorous Caverns](https://www.drivethrurpg.com/en/product/495916)                                                                                           | 2              | 4            | ~20        |
 | [The Dragon’s Gullet](https://www.drivethrurpg.com/product/422992)                                                                                                  | 2              | 5            | 50         |
 | [The Four Wives of Xantun](https://www.drivethrurpg.com/en/product/251466)                                                                                          | 2              | 4            | ?          |
+| [The Heart of St. Althus](https://www.drivethrurpg.com/en/product/567410/)                                                                                          | 2              | 4            | 50         |
 | [The Hecatomb of Morthevole](https://www.drivethrurpg.com/product/322655)                                                                                           | 2              | 4            | 12         |
 | [The Mysterious Manor](https://www.drivethrurpg.com/en/product/241136)                                                                                              | 2              | 4            | ?          |
 | [The Pit in the Forest](https://www.drivethrurpg.com/product/342048)                                                                                                | 2              | 3            | ?          |
@@ -120,6 +130,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 | [The Frost Spire](https://drive.google.com/file/d/1T-jq1C5__G3OVG54jrFy4WzX0dWGMwTz/view?usp=sharing)                                                               | 3              | 3            | 9          |
 | [The House under the Moondial](https://www.drivethrurpg.com/en/product/474868/)                                                                                     | 3              | 4            | ?          |
 | [The Hyqueous Vaults](http://www.lulu.com/shop/guy-fullerton-and-rebecca-dettmann-and-allan-grohe-and-jimm-johnson/the-hyqueous-vaults/ebook/product-23455816.html) | 3              | 3            | 67         |
+| [The Lions of Tell Arn Part 2](https://www.drivethrurpg.com/en/product/530112/)                                                                                     | 3              | 8            | 100        |
 | [The Palace of Unquiet Repose](https://www.drivethrurpg.com/product/341381)                                                                                         | 3              | 5            | ?          |
 | [The Red Prophet Rises](https://www.drivethrurpg.com/product/235540)                                                                                                | 3              | 5            | 43         |
 | [The Singing Stones](https://www.drivethrurpg.com/en/product/406938)                                                                                                | 3              | 5            | 23         |
@@ -129,15 +140,19 @@ This game endeavors to provide a ruleset that allows players to play through adv
 | [Tower of the Thief](https://emdt.bigcartel.com/product/echoes-from-fomalhaut-12-treasures-of-the-necropolis)                                                       | 3              | 5            | 15         |
 | [Urmalk the Boundless](https://emdt.bigcartel.com/product/echoes-from-fomalhaut-12-treasures-of-the-necropolis)                                                     | 3              | 5            | 48         |
 | [Vault of the Mad Baron](https://www.drivethrurpg.com/en/product/414418)                                                                                            | 3              | 5            | ?          |
+| [Vaults of Urpiram](https://www.drivethrurpg.com/en/product/570696/)                                                                                                | 3              | 3            | 40         |
 | [Yrrtwano's Repose](https://www.drivethrurpg.com/en/product/365419)                                                                                                 | 3              | 5            | ?          |
 | [City Of Bats](https://www.drivethrurpg.com/product/379533)                                                                                                         | 4              | 6            | 50         |
 | [Cloister of the Frog-God](https://emdt.bigcartel.com/product/cloister-of-the-frog-god)                                                                             | 4              | 6            | 92         |
 | [Date of Expiration](https://www.drivethrurpg.com/product/370864)                                                                                                   | 4              | 7            | 45         |
+| [Eldritch Borderlands](https://www.drivethrurpg.com/en/product/539491/)                                                                                             | 4              | 6            | 16         |
 | [Mana Meltdown](https://www.drivethrurpg.com/en/product/530305/)                                                                                                    | 4              | ?            | ?          |
 | [Pestilence at Halith Vorn](https://www.drivethrurpg.com/en/product/508270/)                                                                                        | 4              | 6            | ?          |
+| [Shrine of the Cabbage God](https://www.drivethrurpg.com/en/product/566390/)                                                                                        | 4              | 6            | 30         |
 | [Standoff at Sandfell Sea Fort](https://www.drivethrurpg.com/en/product/252951)                                                                                     | 4              | 7            | ?          |
 | [The Barbarian King](https://www.drivethrurpg.com/product/247440)                                                                                                   | 4              | 6            | 42         |
 | [The Gallery of Rising Tombs](https://www.drivethrurpg.com/en/product/298986)                                                                                       | 4              | 6            | 71         |
+| [The Master of Puppets](https://www.drivethrurpg.com/en/product/569545/)                                                                                            | 4              | 6            | 30         |
 | [The Ruined Abbey of St Clewyd](https://www.drivethrurpg.com/en/product/527291/)                                                                                    | 4              | 6            | 50         |
 | [The Swine Lord](https://www.drivethrurpg.com/en/product/251466)                                                                                                    | 4              | 6            | 11         |
 | [The Tomb of Ali Shulwar](https://www.drivethrurpg.com/product/322655)                                                                                              | 4              | 6            | 66         |
@@ -145,12 +160,15 @@ This game endeavors to provide a ruleset that allows players to play through adv
 | [Trollback Keep](https://www.drivethrurpg.com/product/264501)                                                                                                       | 4              | 7            | ?          |
 | [Webs of Past and Present](https://emdt.bigcartel.com/product/the-webs-of-past-and-present)                                                                         | 4              | 5            | 39         |
 | [A Shadow Over the Greatwood](https://www.drivethrurpg.com/product/318409)                                                                                          | 5              | 7            | ?          |
+| [Against the Horselord](https://www.drivethrurpg.com/en/product/558357/)                                                                                            | 5              | 7            | 27         |
 | [Castle Sullogh](https://www.drivethrurpg.com/en/product/365419)                                                                                                    | 5              | 9            | 55         |
 | [Castle of the Rose Knight](https://emdt.bigcartel.com/product/echoes-from-fomalhaut-12-treasures-of-the-necropolis)                                                | 5              | 7            | 30         |
+| [City of the Ape-Men](https://www.drivethrurpg.com/en/product/559570/)                                                                                              | 5              | 8            | ?          |
 | [Darkness at Nekemte](https://www.drivethrurpg.com/product/317631)                                                                                                  | 5              | 6            | 70         |
 | [Fog Valley Retreat](https://www.drivethrurpg.com/en/product/522331/)                                                                                               | 5              | 7            | 20         |
 | [Fractious Mayhem at Melonath Falls](https://princeofnothing.itch.io/no-artpunk-ii)                                                                                 | 5              | 8            | 44         |
 | [From Beneath The Glacier](https://www.drivethrurpg.com/product/322655)                                                                                             | 5              | 7            | 21         |
+| [He Who Claimed the Sun](https://www.drivethrurpg.com/en/product/573023/)                                                                                           | 5              | 8            | 23         |
 | [Secrets of the Wyrwoode](https://www.drivethrurpg.com/en/product/200708/Secrets-of-the-Wyrwoode)                                                                   | 5              | 7            | ?          |
 | [Skalbak Sneer: The Stronghold of Snow](https://princeofnothing.itch.io/no-artpunk-ii)                                                                              | 5              | 7            | 57         |
 | [The Chalice of Blood](https://www.drivethrurpg.com/product/302576)                                                                                                 | 5              | 6            | 12         |
@@ -169,6 +187,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 | [The Keep of the Broken Saint](https://www.drivethrurpg.com/product/256798)                                                                                         | 8              | 10           | 60         |
 | [Tomb of the Twice-Crowned King](https://www.drivethrurpg.com/product/442331)                                                                                       | 8              | 10           | 55         |
 | [D1-3 - Descent into the Depths of the Earth (Drow)](https://www.drivethrurpg.com/en/product/17041)                                                                 | 9              | 10           | ?          |
+| [Fortress Tomb of the Ice Lich](https://www.drivethrurpg.com/en/product/554810/)                                                                                    | 9              | 12           | 80         |
 | [G1-3 - Against The Giants](https://www.drivethrurpg.com/en/product/17037)                                                                                          | 9              | 10           | ?          |
 | [Temple of the Beggar-King](https://www.drivethrurpg.com/en/product/512473/)                                                                                        | 9              | 11           | 48         |
 | [S1 - Tomb of Horrors](https://www.drivethrurpg.com/en/product/176871)                                                                                              | 10             | 10           | ?          |
@@ -178,6 +197,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 #### 2026-08-03
 - Add guidance on where wandering monsters come from, including a `1d6` table for when the map and their errand don't suggest an answer.
+- Update the recommended adventures table with the 19 new "Best" entries from tenfootpole (2025-11-12 through 2026-07-29).
 
 #### 2025-10-26
 - Update the recommended games log with the new 10ft pole entries.

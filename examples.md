@@ -237,7 +237,7 @@ Say we are playing through [Stonehell](https://www.lulu.com/shop/michael-curtis/
 
 **GM**: Yeah, no problem. It'll still takes a turn, but no risk.
 
-**Alice**: Good enough for me. Carol has a +2, Bob has a +1, and I have a -1, so we're at +2 total. My 2d6 came up 5, so with the +2 I'm up.
+**Alice**: Sounds good!
 
 ---
 

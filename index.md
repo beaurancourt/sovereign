@@ -195,6 +195,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2026-08-10
+- Update the Skills example to show that the rope plan is riskless
+
 #### 2026-08-03
 - Add guidance on where wandering monsters come from, including a `1d6` table for when the map and their errand don't suggest an answer.
 - Update the recommended adventures table with the 19 new "Best" entries from tenfootpole (2025-11-12 through 2026-07-29).
